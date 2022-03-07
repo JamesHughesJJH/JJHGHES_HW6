@@ -27,7 +27,27 @@ hr {
     border-color: black solid;
 }
 
+figure{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0;
+}
+
+figcaption{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
+
 .Distilleries {
+border: 1px black solid;
+padding-left: 10px;
+margin: auto;
+}
+
+.Ball {
 border: 1px black solid;
 padding-left: 10px;
 margin: auto;
