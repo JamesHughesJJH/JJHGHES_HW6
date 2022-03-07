@@ -26,3 +26,9 @@ hr {
     ;
     border-color: black solid;
 }
+
+.Distilleries {
+border: 1px black solid;
+padding-left: 10px;
+margin: auto;
+}
