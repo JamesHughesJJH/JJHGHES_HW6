@@ -8,8 +8,6 @@ header{
     padding: 0;
 }
 
-
-
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
@@ -21,4 +19,10 @@ li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 5px;
 
+}
+
+hr {
+    border: 1.75px black solid
+    ;
+    border-color: black solid;
 }
