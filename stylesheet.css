@@ -1,4 +1,5 @@
 header{
+    font-size: x-large;
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 0px;
@@ -7,5 +8,7 @@ header{
 }
 
 body {
+    font-size: large;
     background-color:#A3C1EE;
+    margin: 25px;
 }
