@@ -1,5 +1,6 @@
 header{
     font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 0px;
@@ -7,13 +8,17 @@ header{
     padding: 0;
 }
 
+
+
 body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     background-color:#A3C1EE;
     margin: 25px;
 }
 
 li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 5px;
-    
+
 }
