@@ -1,4 +1,4 @@
-header{
+header {
     font-size: x-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 15px;
@@ -27,7 +27,7 @@ hr {
     border-color: black solid;
 }
 
-figure{
+figure {
     margin-top: 10px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -35,7 +35,7 @@ figure{
     padding: 0;
 }
 
-figcaption{
+figcaption {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
     font-style: italic;
